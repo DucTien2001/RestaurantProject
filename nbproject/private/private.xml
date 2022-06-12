@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/bookTable/tableServlet.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/Controller/signupServlet.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/web/index.jsp</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/business/Account.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/data/BookDB.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/data/MenuDB.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/web/menu.jsp</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/Mail/javaMailUtil.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/data/AccountDB.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/business/Menu.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/Controller/menuServlet.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/Controller/accountMngServlet.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/Controller/loginServlet.java</file>
+            <file>file:/E:/Lap_trinh_Web/restaurant-gr4-master/src/java/com/Controller/productMngServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
